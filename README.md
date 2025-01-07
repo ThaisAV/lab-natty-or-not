@@ -1,51 +1,22 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
+# Explorando o Realismo em Imagens Geradas por IA
 
-> Woooow! Look at this 👀
+## 📒 Descrição  
+Este projeto investiga o realismo alcançado em imagens geradas por Inteligência Artificial, utilizando exclusivamente a ferramenta Leonardo AI. O objetivo foi avaliar a capacidade dessa tecnologia de criar conteúdos visuais que se aproximam da realidade.  
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+## 🤖 Tecnologias Utilizadas  
+- **Leonardo AI**: Ferramenta para geração de imagens hiper-realistas.  
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+## 🧐 Processo de Criação  
+1. **Definição do conceito**: Escolhi o tema de um cenário urbano contemporâneo durante o pôr do sol, buscando detalhes que remetam a uma fotografia realista, como reflexos no asfalto molhado, iluminação natural e texturas precisas.  
+2. **Desenvolvimento do prompt**: Foi criado um texto detalhado, em inglês, para guiar a geração da imagem no Leonardo AI, garantindo foco em realismo e qualidade.  
+3. **Geração e refinamento**: Testei e ajustei o prompt até obter uma imagem que representasse fielmente a ideia original.  
 
-### Objetivos
+## 🚀 Resultados  
+O resultado foi uma imagem extremamente realista, simulando uma fotografia urbana de alta qualidade. Detalhes como reflexos, sombras e texturas foram trabalhados pela IA para criar uma composição visual convincente.  
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+## 💭 Reflexão (Opcional)  
+Trabalhar com Leonardo AI destacou como um bom prompt é essencial para resultados bem-sucedidos. Apesar da qualidade impressionante da imagem, o processo também revelou desafios, como ajustar pequenos detalhes que ainda diferem de uma foto real.  
 
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
-
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+![Flux_Dev_A_hyperrealistic_photograph_of_a_contemporary_urban_e_1](https://github.com/user-attachments/assets/0811f55d-ea9f-4e5d-b084-417a80e6dcb7)
